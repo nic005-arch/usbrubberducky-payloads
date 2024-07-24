@@ -32,7 +32,7 @@ This payload is intended for use with a USB Rubber Ducky device.
    $IP = 'YOUR_IP'
    $PORT = 'YOUR_PORT'
 
-3. **Configure drive and powershell script name **:
+3. **Configure drive and powershell script name**:
    edit the payload.txt to set both the name of the drive label and the powershell script
 
    ```Duckyscript
